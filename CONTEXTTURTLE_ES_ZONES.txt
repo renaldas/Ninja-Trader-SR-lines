@@ -1,0 +1,10 @@
+4493.00,4493.00,R,Resistance
+4487.75,4487.75,R,Resistance
+4476.75,4483.25,R,Good resistance
+4453.25,4456.50,R,Good resistance
+4439.25,4446.75,R,Good resistance
+4421.50,4421.50,R,Resistance
+4412.50,4414.75,R,Resistance
+4387.75,4391.50,R,Initial key resistance
+4370.25,4370.25,R,Resistance
+4349.75,4353.75,S,Initial key support
